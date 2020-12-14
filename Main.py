@@ -174,7 +174,7 @@ def test_main(model_file_name):
 
 
 if __name__ == "__main__":
-    os.environ["CUDA_VISIBLE_DEVICES"] = "2, 3"
+    os.environ["CUDA_VISIBLE_DEVICES"] = "0, 1"
     print("GPU ID: ", os.environ["CUDA_VISIBLE_DEVICES"])
     # main()
     test_main("Result_Models/GSTNet.pkl")

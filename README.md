@@ -1,4 +1,4 @@
-# GSTNet
+# GSTNet (This ReadMe file is updating)
 ## This is the source code of GSTNet.
   The PeMS-BAY Dataset is provided by DCRNN, and preprocessed here: 
 https://drive.google.com/drive/folders/10L1ZkwHNIxaoOYRw3Kw8bzhJ0obTeCBl?usp=sharing

@@ -4,7 +4,9 @@
 
 Please download the dataset and put it in the "DCRNN_Provide" folder.
 
-Please Cite the following paper.
+To re-produce the results on PeMS-BAY, just run the "Main.py" file.
+
+If this source code is helpful to you, please cite the following paper.
 
 ```
 @inproceedings{Fang_GSTNet,

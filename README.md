@@ -9,6 +9,7 @@ To re-produce the results on PeMS-BAY, just run the "Main.py" file.
 
 If this source code is helpful to you, please cite the following paper.
 
+### Update Notice：Recently I was told that the there lacks necessary modules in the "DCRNN_Provide" folder. This bug will be fixed as soon as possible.
 ```
 @inproceedings{Fang_GSTNet,
   author    = {Shen Fang and
